@@ -125,7 +125,24 @@ Market sentiment indicators can be integrated into trading systems to dynamicall
 - Scikit-learn
 - Streamlit
 
+--- 
+# Sample Visualizations
+
+## PnL Distribution
+
+![PnL Distribution](charts/pnl_distribution.png)
+
 ---
+
+## Trade Size Distribution
+
+![Trade Size Distribution](charts/trade_size_distribution.png)
+
+---
+
+## Long vs Short Behavior
+
+![Long vs Short Behavior](charts/long_short_behavior.png)
 
 # Project Structure
 
