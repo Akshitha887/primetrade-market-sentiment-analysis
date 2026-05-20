@@ -1,0 +1,64 @@
+# PrimeTrade Market Sentiment Analysis — Short Report
+
+# Objective
+
+The objective of this project was to analyze how Bitcoin market sentiment influences trader behavior, profitability, and risk exposure using historical trading data and the Fear & Greed Index.
+
+---
+
+# Methodology
+
+The project workflow included:
+
+- Data cleaning and preprocessing
+- Timestamp conversion and date alignment
+- Merging sentiment and trader datasets
+- Creating trader performance metrics
+- Behavioral analysis across market sentiment conditions
+- Visualization of trading activity and profitability
+- Trader segmentation using clustering techniques
+- Predictive modeling using Random Forest classification
+
+---
+
+# Key Insights
+
+## Insight 1 — Fear Markets Show Highest Volatility
+
+Fear periods produced the largest profit and loss swings, indicating significantly higher market volatility and trader risk exposure.
+
+---
+
+## Insight 2 — Traders Increase Position Sizes During Fear
+
+Average trade sizes increased during Fear conditions, suggesting that traders became more aggressive during uncertain market environments.
+
+---
+
+## Insight 3 — Defensive Trading Behavior Increased
+
+SELL activity slightly exceeded BUY activity during Fear periods, indicating more defensive market positioning by traders.
+
+---
+
+## Insight 4 — Frequent Traders React More Aggressively
+
+Frequent traders showed stronger behavioral changes during sentiment shifts compared to infrequent traders.
+
+---
+
+# Strategy Recommendations
+
+## Recommendation 1
+Reduce position sizes and apply stricter risk management during highly fearful market conditions.
+
+## Recommendation 2
+Incorporate market sentiment indicators into trading strategies to dynamically adjust trading frequency and risk exposure.
+
+---
+
+# Conclusion
+
+This analysis demonstrates that market sentiment significantly impacts trader behavior, profitability, and market risk in cryptocurrency trading environments.
+
+The findings highlight the importance of sentiment-aware trading and dynamic risk management strategies during volatile market periods.
